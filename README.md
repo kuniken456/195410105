@@ -3,7 +3,7 @@ Gunakan perintah dibawah ini untuk dapat mengclone/mendownload data dari reposit
 
 ```sh
 $ git clone https://github.com/kuniken456/195410105
-$ cd 195410105_Kevin
+$ cd 195410105
 ```
 
 - Cara untuk menjalankan
